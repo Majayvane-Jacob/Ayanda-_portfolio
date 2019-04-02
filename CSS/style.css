@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body,
+header,
+#intro {
+  height: 100%;
+}
+#intro {
+  background-image: url("https://edgeofdavid.com/wp-content/uploads/2017/01/youtube-vlogging.jpg");
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  filter: brightness(50%);
+}
+.mask {
+  padding: 250px;
+  color: white;
+  font-family: 'Alfa Slab One', cursive;
+}
+.container-fluid .row .col-lg-4 form .form-group .form-control {
+  border: none;
+  border-bottom: 2px solid black;
+  border-bottom-width: thin;
+  width: 40%
+}
+.navbar-brand {
+  color: black;
+}
+.display-1 {
+  text-shadow: 7px 7px black;
+}
+.navbar {
+  background-color: grey;
+  opacity: 0.8;
+}
+main {
+  background-color: #FCF7FF;
+}
+.card-img-top {
+  height: 250px;
+}
