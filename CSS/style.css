@@ -7,6 +7,7 @@ body,
 header,
 #intro {
   height: 100%;
+  scroll-behavior: smooth;
 }
 #intro {
   background-image: url("https://edgeofdavid.com/wp-content/uploads/2017/01/youtube-vlogging.jpg");
@@ -41,5 +42,5 @@ main {
   background-color: #FCF7FF;
 }
 .card-img-top {
-  height: 250px;
+  height: 300px;
 }
